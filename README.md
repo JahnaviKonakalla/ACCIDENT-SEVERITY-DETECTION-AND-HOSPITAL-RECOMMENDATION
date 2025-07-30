@@ -1,0 +1,1 @@
+The project motive is to find whether the accident is minor or major based on images. augmented the dataset and applied cnn VGG-16 model, Sequential and based on the accident severity and based on the location we would recommend the best suitable hospital
